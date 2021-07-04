@@ -76,8 +76,6 @@ This server acts as an API gateway by receiving an incoming image with the curre
 The app is a Progressive Web App, which allows the app to be developed in HTML5 and Javascript, but can be added to the users' home Screen (Available from Safari iOS). The audio is synthesized using Text-to-Speech API available in iOS Webkit Javascript API. Video and audio are also capture using APIs available on iOS Webkit Javascript API.
 
 ### Audio Flow
-![Architecture - Audio flow](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/566/598/datas/gallery.jpg)
 
 ### Video/Image Flow
-![Architecture - Image flow](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/566/599/datas/gallery.jpg)
 
