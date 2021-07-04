@@ -56,7 +56,6 @@ When the user needs to stop current mode s/he just needs to say: ```stop``` or `
 
 
 
-![Architecture](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/566/597/datas/gallery.jpg)
 
 
 ### Socket.IO Audio
